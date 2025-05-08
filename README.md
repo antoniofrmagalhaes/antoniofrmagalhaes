@@ -1,10 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=header"/>
-
 # Antonio Magalhães
 
 **`Desenvolvedor FullStack`**
 
-Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grande, entusiasta de tecnologia apaixonado por desenvolvimento de software, inteligencia artificial e jogos. Especializado em Node.js e React, minha Software House [AEON Soluções](https://www.aeonsolucoes.com.br) é focada em desenvolvimento de sistemas, criação de websites, landing pages, integrações e soluções de TI. Sinta-se à vontade para explorar meus projetos.
+Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grande, entusiasta de tecnologia apaixonado por desenvolvimento de software, inteligencia artificial e jogos. Especializado em Node.js e React, estou a frente da [AEON Soluções](https://www.aeonsolucoes.com.br), software house focada em desenvolvimento de sistemas, criação de websites, landing pages, integrações e soluções de TI. Sinta-se à vontade para explorar meus projetos.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://institucional-amber.vercel.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-magalh%C3%A3es/) [![Blog](https://img.shields.io/website?label=aeonsolucoes.com.br&style=for-the-badge&url=https://institucional-amber.vercel.app/)](https://institucional-amber.vercel.app/)
 
@@ -41,5 +39,3 @@ Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grand
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofrmagalhaes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 <img  height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofrmagalhaes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Magalhães github stats"/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
