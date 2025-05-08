@@ -4,7 +4,7 @@
 
 Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grande, entusiasta de tecnologia apaixonado por desenvolvimento de software, inteligencia artificial e jogos. Especializado em Node.js e React, estou a frente da [AEON Soluções](https://www.aeonsolucoes.com.br), software house focada em desenvolvimento de sistemas, criação de websites, landing pages, integrações e soluções de TI. Sinta-se à vontade para explorar meus projetos.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://institucional-amber.vercel.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-magalh%C3%A3es/) [![Blog](https://img.shields.io/website?label=aeonsolucoes.com.br&style=for-the-badge&url=https://institucional-amber.vercel.app/)](https://institucional-amber.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/antoniomagalhaes/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-magalh%C3%A3es/) [![Blog](https://img.shields.io/website?label=aeonsolucoes.com.br&style=for-the-badge&url=https://institucional-amber.vercel.app/)](https://institucional-amber.vercel.app/)
 
 ### Linguagens e Ferramentas
 
