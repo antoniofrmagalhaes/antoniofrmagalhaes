@@ -28,11 +28,7 @@ Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grand
 <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
+---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniofrmagalhaes&bg_color=0D1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
