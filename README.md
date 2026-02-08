@@ -4,7 +4,10 @@
 
 Olá, sou Antonio, natutal de Mato Grosso do Sul, moro atualmente em Campo Grande, entusiasta de tecnologia apaixonado por desenvolvimento de software, inteligencia artificial e jogos. Especializado em Node.js e React, estou a frente da [AEON Soluções](https://www.aeonsolucoes.com.br), software house focada em desenvolvimento de sistemas, criação de websites, landing pages, integrações e soluções de TI. Sinta-se à vontade para explorar meus projetos.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/antoniomagalhaes/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-magalh%C3%A3es/) [![Blog](https://img.shields.io/website?label=aeonsolucoes.com.br&style=for-the-badge&url=[https://institucional-amber.vercel.app/](https://www.aeonsolucoes.com.br))]([https://institucional-amber.vercel.app/](https://www.aeonsolucoes.com.br))
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/antoniomagalhaes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-magalhães/)
+[![Blog](https://img.shields.io/website?label=aeonsolucoes.com.br&style=for-the-badge&url=https://www.aeonsolucoes.com.br)](https://www.aeonsolucoes.com.br)
+
 
 ### Linguagens e Ferramentas
 
