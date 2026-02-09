@@ -7,9 +7,9 @@
 
   <div>
     <img alt="Next.js" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    &nbsp;&nbsp;
-    <img alt="NestJS" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
     &nbsp;&nbsp;&nbsp;
+    <img alt="NestJS" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Node.js" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
 
@@ -38,10 +38,12 @@
 
 <h2>Projetos em destaque</h2>
 
-<ul>
-  <li>
+<div>
+  <div>
     <b><a href="https://www.bainclan.com.br">»BAIN« | BRASIL HELL</a></b><br/>
-    Clan brasileiro de amigos que jogam <i>Hell Let Loose</i> nos modos competitivo e casual.
+    Clan brasileiro de amigos que jogam
+    <i><a href="https://store.steampowered.com/app/686810/Hell_Let_Loose/">Hell Let Loose</a></i>
+    nos modos competitivo e casual.
     O site serve como plataforma de ranking de jogadores e compra de acesso VIP para o servidor.
     <br/><br/>
     <a href="https://www.bainclan.com.br">
@@ -56,20 +58,24 @@
       Detalhes técnicos:
       <a href="https://github.com/antoniomagalhaes/bainclan">repositório</a>
     </small>
-  </li>
+  </div>
 
-  <li>
+  <br/>
+
+  <div>
     <b><a href="https://www.casarosa.org.br">Casa Rosa ONG</a></b> <i>(voluntário)</i><br/>
     Desenvolvimento e manutenção do site institucional da ONG, com foco em organização de conteúdo,
     acessibilidade e presença digital.
-  </li>
+  </div>
 
-  <li>
+  <br/>
+
+  <div>
     <b><a href="https://www.grgg-advogados.com.br">GRGG Advogados</a></b><br/>
     Site institucional para escritório de advocacia, com foco em clareza das informações,
     performance e presença online.
-  </li>
-</ul>
+  </div>
+</div>
 
 ---
 
